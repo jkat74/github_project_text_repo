@@ -1,1 +1,2 @@
 skrivet från fork lokalt
+skrivet igen från fork lokalt för att skapa en konflikt
